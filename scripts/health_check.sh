@@ -22,3 +22,5 @@ echo "--- Listening Ports ---" >> "$LOG"
 ss -tulpn >> "$LOG"
 
 echo "Health check completed."
+
+echo "PurpleTech monitoring is running"
