@@ -24,3 +24,5 @@ ss -tulpn >> "$LOG"
 echo "Health check completed."
 
 echo "PurpleTech monitoring is running"
+
+echo "Feature branch test"
